@@ -1,3 +1,3 @@
 ```
-Some nvim lazy setup
+Some Lazy Nvim config
 ```
